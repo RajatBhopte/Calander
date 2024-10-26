@@ -123,7 +123,7 @@ int main()
 Again:
     Calander d1;
     cout << "Find The day of a Date : \n";
-    cout << "\nEnter date in this format --> 00/00/0000" << endl;
+    cout << "\nEnter date in this format --> DD/MM/YYYY" << endl;
     int date, repeat;
     cout << "\nEnter date : ";
     cin >> date;
